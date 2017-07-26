@@ -1,0 +1,13 @@
+{
+  "name": "Pengujian Progressive Web Apps",
+  "short_name": "Pengujian PWA",
+  "icons": [{
+      "src": "images/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1E6BEC"
+}

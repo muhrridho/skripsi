@@ -1,0 +1,16 @@
+Architecture on google
+
+image 1: 
+image 2: http://www.architecturalrecord.com/ext/resources/Issues/2016/May/1605-Architecture-Creativity-wHY-Louisville-Speed-Art-Museum-01.jpg
+image 3: https://static.pexels.com/photos/10643/photo-1442406964439-e46ab8eff7c4.jpg
+image 4: http://assets.dornob.com/wp-content/uploads/2016/02/heydar-alijev-centre.jpg
+image 5: http://images.adsttc.com/media/images/571f/ef8f/e58e/ce10/2b00/00df/large_jpg/KVA_TOZZER_EXTERIOR_FROM_SOUTHEAST.jpg?1461710727
+image 6: http://cd.visitmelbourne.com/-/media/images/melbourne/things-to-do/art-theatre-and-culture/architecture-and-design/aami-stadium_mel_r_1454943_1150x863.jpg?ts=20151026240759&w=480&h=360&crop=1|http://cd.visitmelbourne.com/-/media/images/melbourne/things-to-do/art-theatre-and-culture/architecture-and-design/aami-stadium_mel_r_1454943_1150x863.jpg?ts=20151026240759&w=720&h=540&crop=1
+
+
+image small 1: http://images.adsttc.com/media/images/571f/ef8f/e58e/ce10/2b00/00df/large_jpg/KVA_TOZZER_EXTERIOR_FROM_SOUTHEAST.jpg?1461710727
+
+image large 1: http://www.metropolismag.com/wp-content/uploads/2017/03/5-Penn-Plant_-dusk.jpg
+
+owl.carousel.min.js, modernizr.min.js, featherlight.min.js
+
